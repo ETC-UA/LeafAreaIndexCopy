@@ -1,4 +1,4 @@
-module LeafAreaIndex
+module LeafAreaIndexCopy
 
 using Optim: optimize, minimizer
 using StatsBase: mean, midpoints
