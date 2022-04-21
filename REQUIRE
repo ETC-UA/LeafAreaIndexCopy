@@ -1,0 +1,12 @@
+julia 1.0
+Optim
+FileIO
+JLD2
+Netpbm
+Parameters
+
+StatsBase
+ColorTypes
+
+Graphics
+DataFrames
