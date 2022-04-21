@@ -1,0 +1,4 @@
+name = "LeafAreaIndexCopy"
+uuid = "1279abf8-ab7a-4e87-a47c-27f663830c52"
+authors = ["Emmy Jacobs <emmy.jacobs@uantwerpen.be>"]
+version = "0.1.0"
